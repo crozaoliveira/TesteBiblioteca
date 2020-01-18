@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB", "MongoDB\MongoDB.csproj", "{FF76D649-650D-4044-853A-5FFACA86445F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{5D252D95-E806-4734-ADFB-DE325887047B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBLoan", "MongoDBLoan\MongoDBLoan.csproj", "{0009830D-DE96-4218-9E65-CD375C7F1E0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF76D649-650D-4044-853A-5FFACA86445F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF76D649-650D-4044-853A-5FFACA86445F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF76D649-650D-4044-853A-5FFACA86445F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF76D649-650D-4044-853A-5FFACA86445F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D252D95-E806-4734-ADFB-DE325887047B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D252D95-E806-4734-ADFB-DE325887047B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D252D95-E806-4734-ADFB-DE325887047B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D252D95-E806-4734-ADFB-DE325887047B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0009830D-DE96-4218-9E65-CD375C7F1E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0009830D-DE96-4218-9E65-CD375C7F1E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0009830D-DE96-4218-9E65-CD375C7F1E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0009830D-DE96-4218-9E65-CD375C7F1E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCF51BA1-A034-475D-9ED3-F1B492DA885E}
+	EndGlobalSection
+EndGlobal
